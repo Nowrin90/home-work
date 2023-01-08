@@ -48,10 +48,10 @@
     /* padding-left: 50px; */
     text-align: center;
   }
-.class-title{
-   position: absolute;
-   top: 1500px;
-    
+
+
+li{
+    display: block;
 }
 
   /* .class-title{
@@ -155,5 +155,10 @@
 
 }
 .future-info{
+padding-inline: 5px;
     
+}
+.future-subscribe-section{
+ 
+
 }
